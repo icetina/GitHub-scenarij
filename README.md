@@ -1,2 +1,2 @@
 # GitHub-scenarij
-Moj prvi scenarij na GitHub-u
+Studiram na Veleučilištu u Rijeci
